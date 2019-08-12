@@ -1,12 +1,12 @@
 // Type definitions for passport-ldapauth 2.0
-// Project: https://github.com/vesse/passport-ldapauth
-// Definitions by: Vesa Poikajärvi <https://github.com/vesse>
+// Project: https://github.com/jnmly/passport-ldapauth
+// Definitions by: Vesa Poikajärvi <https://github.com/jnmly>
 // TypeScript Version: 2.1
 
 /// <reference types="node"/>
 
 import { IncomingMessage } from 'http';
-import { Options as LdapAuthOptions } from 'ldapauth-fork';
+import { Options as LdapAuthOptions } from 'ldapauth-fork-jnmly';
 import {
     Strategy as PassportStrategy,
     AuthenticateOptions as PassportAuthenticateOptions
