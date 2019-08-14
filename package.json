@@ -34,7 +34,7 @@
   "dependencies": {
     "@types/node": "^10.12.26",
     "@types/passport": "^1.0.0",
-    "ldapauth-fork-jnmly": "^5.0.1",
+    "ldapauth-fork-jnmly": "https://github.com/jnmly/node-ldapauth-fork.git#e23f0cf02137a4a56ddc969f87581b1c972162ed",
     "passport-strategy": "^1.0.0"
   },
   "devDependencies": {
