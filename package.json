@@ -26,15 +26,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jnmly/passport-ldapauth.git"
+    "url": "https://github.com/unomaly/passport-ldapauth.git"
   },
   "bugs": {
-    "url": "https://github.com/jnmly/passport-ldapauth/issues"
+    "url": "https://github.com/unomaly/passport-ldapauth/issues"
   },
   "dependencies": {
     "@types/node": "^10.12.26",
     "@types/passport": "^1.0.0",
-    "ldapauth-fork-jnmly": "https://github.com/jnmly/node-ldapauth-fork.git#e23f0cf02137a4a56ddc969f87581b1c972162ed",
+    "ldapauth-fork-jnmly": "https://github.com/unomaly/node-ldapauth-fork.git#e23f0cf02137a4a56ddc969f87581b1c972162ed",
     "passport-strategy": "^1.0.0"
   },
   "devDependencies": {
