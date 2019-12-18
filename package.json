@@ -56,7 +56,6 @@
     "watch": "^1.0.2"
   },
   "scripts": {
-    "prepare": "npm run lint",
     "lint": "eslint ./lib",
     "lint:watch": "watch 'npm run lint' ./lib --wait 0.5",
     "test": "NODE_PATH=lib mocha --reporter spec test/*-test.js",
